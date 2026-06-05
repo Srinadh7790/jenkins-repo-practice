@@ -1,1 +1,2 @@
 intergrating github with jenkins
+automation build
